@@ -4,7 +4,7 @@
 
 //############################################################################
 const char* ssid = "uuholovoG";                                             // WiFi SSID
-const char* password = "horokiwi";                                          // WiFi Password
+const char* password = "<password>";                                        // WiFi Password
 const char *GScriptId = "AKfycbwrnJmLCkpSSaajLaFP1LCfsShX1cV6t47iIGDq";     // GoogleDocs API ID
 #define HEALTH_CHECK_PERIOD  3600000                                        // how often to write a health check (24 hrs = 86400000 12h=43200000 1hr = 3600000 1min = 60000 )
 //############################################################################
